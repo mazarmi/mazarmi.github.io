@@ -6,8 +6,55 @@
     <description>Recent content in Fixed on Mehdi Azarmi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Jan 2017 06:42:21 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jan 2017 16:35:19 -0800</lastBuildDate>
     <atom:link href="https://mazarmi.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>publication</title>
+      <link>https://mazarmi.github.io/publication/</link>
+      <pubDate>Mon, 09 Jan 2017 16:35:19 -0800</pubDate>
+      
+      <guid>https://mazarmi.github.io/publication/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;End to End Security in Service Oriented Architecture.&lt;/strong&gt;
+M. Azarmi, P. Angin, B. Bhargava, N. Ahmed , A. Sinclair, et al.
+&lt;em&gt;31st International Symposium on Reliable Distributed Systems (IEEE SRDS 2012), 2012, Under Submission.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Novel Secure and Dynamic Clustering Protocols in Wireless Sensor Networks.&lt;/strong&gt;
+R. Jiang, M. Azarmi, T. Gong, B. Bhargava.
+&lt;em&gt;Elsevier Computers &amp;amp; Security, 2011, Under Review.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minimizing Collaborative Attacks in a Real Heterogeneous Mobile Ad Hoc Network Using Cooperative Immunization Model.&lt;/strong&gt;
+T. Gong, B. Bhargava, Jiajia Zhou, Mehdi Azarmi, and Changxing Du.
+&lt;em&gt;Computers &amp;amp; Security, 2011, Under Review.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy-Aware Location-Aided Routing in Mobile Ad Hoc Networks.&lt;/strong&gt;
+G. Ghinita, M. Azarmi, E. Bertino.
+&lt;em&gt;11th International Conference on Mobile Data Management. (IEEE MDM 2010), 2010, 65-74.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developing Attack Defense Ideas for Ad Hoc Wireless Networks.&lt;/strong&gt;
+R. Oliveira, B. Bhargava, M. Azarmi, E. Ferreira.
+&lt;em&gt;28th IEEE International Symposium on Reliable Distributed Systems (SRDS), Niagara Falls, New York, U.S.A., September 2009.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaborative Attacks in WiMAX Networks&lt;/strong&gt;
+B. Bhargava, Y. Zhang, N. Idika, L. Lilien, M. Azarmi
+&lt;em&gt;Wiley Journal on Security and Communication Networks, Volume: 2, Issue: 5, Pages: 373-391, 2009.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;An Adaptive Routing Protocols for Vehicular Ad hoc Networks.&lt;/strong&gt;
+M. Azarmi, Masoud Sabaei.
+&lt;em&gt;International Symposium on Telecommunication (IST 2008), 2008.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Cross Layer and Power-aware Routing Protocol for Sensor Networks.&lt;/strong&gt;
+M. Azarmi, S. Khorsandi, H. Pedram.
+&lt;em&gt;Proceedings of 15th Iranian Conference on Electrical Engineering (ICEE 2007), 2007.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CPR: A Cross Layer and power-aware routing protocol for sensor networks.&lt;/strong&gt;
+M. Azarmi, M. Sabaei.
+&lt;em&gt;Proceedings of 12th International CSI Computer Conference, 2007.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Effect of the Mobility Models On The Mobile Ad hoc Network Routing Protocols.&lt;/strong&gt;
+M. Azarmi, M. Sabaei.
+&lt;em&gt;Proceedings of International Knowledge and Technology conference (IKT2005), Tehran, IRAN, 2005.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improving Location-Based Routing Protocols in Mobile Ad hoc Networks.&lt;/strong&gt;
+M. Azarmi
+&lt;em&gt;M.Sc thesis, Amirkabir University of Technology (Tehran Polytechnic), 2006.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Performance Comparison of Multi-Hop Wireless Ad Hoc Network Routing Protocols.&lt;/strong&gt;
+M. Azarmi
+&lt;em&gt;B.Sc thesis, Amirkabir University of Technology (Tehran Polytechnic), 2005.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -15,7 +62,16 @@
       <pubDate>Mon, 09 Jan 2017 06:42:21 -0700</pubDate>
       
       <guid>https://mazarmi.github.io/about/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;I received my Ph.D. in computer science from Purdue University. I was affiliated with the Center for Education and Research in Information Assurance and Security (CERIAS).&lt;/p&gt;
+
+&lt;h1 id=&#34;interests&#34;&gt;Interests&lt;/h1&gt;
+
+&lt;p&gt;I&amp;rsquo;m currently interested in designing reliable and massively scalable distributed systems.&lt;/p&gt;
+
+&lt;p&gt;Previously, I&amp;rsquo;ve worked on multiple areas of information security.&lt;/p&gt;
+</description>
     </item>
     
     <item>
