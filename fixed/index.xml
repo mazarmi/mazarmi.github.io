@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixed on Mehdi Azarmi</title>
+    <link>https://mazarmi.github.io/fixed/index.xml</link>
+    <description>Recent content in Fixed on Mehdi Azarmi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Jan 2017 06:42:21 -0700</lastBuildDate>
+    <atom:link href="https://mazarmi.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://mazarmi.github.io/about/</link>
+      <pubDate>Mon, 09 Jan 2017 06:42:21 -0700</pubDate>
+      
+      <guid>https://mazarmi.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://mazarmi.github.io/code/</link>
+      <pubDate>Mon, 09 Jan 2017 00:16:00 -0800</pubDate>
+      
+      <guid>https://mazarmi.github.io/code/</guid>
+      <description>&lt;p&gt;Under Construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
