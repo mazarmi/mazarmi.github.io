@@ -15,7 +15,9 @@
       <pubDate>Mon, 09 Jan 2017 16:35:19 -0800</pubDate>
       
       <guid>https://mazarmi.github.io/publication/</guid>
-      <description>&lt;ul&gt;
+      <description>&lt;p&gt;Please refer to &lt;a href=&#34;https://scholar.google.com/citations?user=ZttbnG8AAAAJ&#34;&gt;Google Scholar&lt;/a&gt; for the latest udpates.&lt;/p&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;End to End Security in Service Oriented Architecture.&lt;/strong&gt;
 M. Azarmi, P. Angin, B. Bhargava, N. Ahmed , A. Sinclair, et al.
 &lt;em&gt;31st International Symposium on Reliable Distributed Systems (IEEE SRDS 2012), 2012, Under Submission.&lt;/em&gt;&lt;/li&gt;
@@ -76,6 +78,20 @@ Previously, I&amp;rsquo;ve worked on multiple areas of information security.&lt;
       
       <guid>https://mazarmi.github.io/code/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/mazarmi&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rook/rook&#34;&gt;rook&lt;/a&gt;: Open, Cloud Native, and Universal Distributed Storage
+
+&lt;ul&gt;
+&lt;li&gt;Implementing etcd manager to elastically expand and shrink the etcd cluster based on the cluster&amp;rsquo;s status.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/quantum/discovery&#34;&gt;rook&lt;/a&gt;:
+
+&lt;ul&gt;
+&lt;li&gt;Improved and expanded the etcd discovery service to reflect the latest cluster membership.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://link&#34;&gt;distcron&lt;/a&gt;: A Distributed Cron&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
