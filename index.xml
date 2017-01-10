@@ -80,17 +80,9 @@ Previously, I&amp;rsquo;ve worked on multiple areas of information security.&lt;
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/mazarmi&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rook/rook&#34;&gt;rook&lt;/a&gt;: Open, Cloud Native, and Universal Distributed Storage
-
-&lt;ul&gt;
-&lt;li&gt;Implementing etcd manager to elastically expand and shrink the etcd cluster based on the cluster&amp;rsquo;s status.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/quantum/discovery&#34;&gt;rook&lt;/a&gt;:
-
-&lt;ul&gt;
-&lt;li&gt;Improved and expanded the etcd discovery service to reflect the latest cluster membership.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://link&#34;&gt;distcron&lt;/a&gt;: A Distributed Cron&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://github.com/rook/rook&#34;&gt;rook&lt;/a&gt;&lt;/em&gt; (An Open, Cloud Native, and Universal Distributed Storage): Implemented the &lt;em&gt;etcd manager&lt;/em&gt; to elastically expand and shrink the etcd cluster based on the cluster&amp;rsquo;s status.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/quantum/discovery&#34;&gt;discovery service&lt;/a&gt;: Improved and expanded the etcd discovery service to reflect the latest cluster membership.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mazarmi/distcron&#34;&gt;distcron&lt;/a&gt;: A Distributed Cron.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
