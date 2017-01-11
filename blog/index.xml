@@ -6,16 +6,27 @@
     <description>Recent content in Blog on Mehdi Azarmi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Jan 2017 00:16:00 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2017 16:58:34 -0800</lastBuildDate>
     <atom:link href="https://mazarmi.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hello World!</title>
-      <link>https://mazarmi.github.io/blog/hello-world/</link>
-      <pubDate>Mon, 09 Jan 2017 00:16:00 -0800</pubDate>
+      <title>first</title>
+      <link>https://mazarmi.github.io/blog/first/</link>
+      <pubDate>Tue, 10 Jan 2017 16:58:34 -0800</pubDate>
       
-      <guid>https://mazarmi.github.io/blog/hello-world/</guid>
-      <description>&lt;p&gt;Hello World&amp;hellip;&lt;/p&gt;
+      <guid>https://mazarmi.github.io/blog/first/</guid>
+      <description>&lt;p&gt;These are some of the blogs that I&amp;rsquo;ve enjoyed following in the past few years and they&amp;rsquo;ve inspired me a lot:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://the-paper-trail.org/&#34;&gt;Henry Robinson (The paper trail)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://antirez.com&#34;&gt;Salvatore Sanfilippo (antirez)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bailis.org/&#34;&gt;Peter Bailis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.acolyer.org&#34;&gt;Adrian Colyer (the morning paper)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I finally decided to start blogging after reading them for a long time! :)
+I will discuss about new papers related to distriubtued systems and other random stuff that I find interesting.
+Stay tuned!&lt;/p&gt;
 </description>
     </item>
     
