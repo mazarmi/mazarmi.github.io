@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Mehdi Azarmi</title>
-    <link>https://mazarmi.github.io/blog/</link>
-    <description>Recent content in Blog on Mehdi Azarmi</description>
+    <title>Misc on Mehdi Azarmi</title>
+    <link>https://mazarmi.github.io/categories/misc/</link>
+    <description>Recent content in Misc on Mehdi Azarmi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 10 Jan 2017 16:58:34 -0800</lastBuildDate>
     
-	<atom:link href="https://mazarmi.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mazarmi.github.io/categories/misc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

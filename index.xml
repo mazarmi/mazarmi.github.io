@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehdi Azarmi</title>
-    <link>https://mazarmi.github.io/index.xml</link>
+    <link>https://mazarmi.github.io/</link>
     <description>Recent content on Mehdi Azarmi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 10 Jan 2017 16:58:34 -0800</lastBuildDate>
-    <atom:link href="https://mazarmi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mazarmi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>first</title>
@@ -15,19 +17,8 @@
       <pubDate>Tue, 10 Jan 2017 16:58:34 -0800</pubDate>
       
       <guid>https://mazarmi.github.io/blog/first/</guid>
-      <description>&lt;p&gt;These are some of the blogs that I&amp;rsquo;ve enjoyed following in the past few years and they&amp;rsquo;ve inspired me a lot:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://the-paper-trail.org/&#34;&gt;Henry Robinson (The paper trail)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://antirez.com&#34;&gt;Salvatore Sanfilippo (antirez)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bailis.org/&#34;&gt;Peter Bailis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.acolyer.org&#34;&gt;Adrian Colyer (the morning paper)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I finally decided to start blogging after reading them for a long time! :)
-I will discuss about new papers related to distriubtued systems and other random stuff that I find interesting.
-Stay tuned!&lt;/p&gt;
-</description>
+      <description>These are some of the blogs that I&amp;rsquo;ve enjoyed following in the past few years and they&amp;rsquo;ve inspired me a lot:
+ Henry Robinson (The paper trail) Salvatore Sanfilippo (antirez) Peter Bailis Adrian Colyer (the morning paper)  I finally decided to start blogging after reading them for a long time! :) I will discuss about new papers related to distriubtued systems and other random stuff that I find interesting. Stay tuned!</description>
     </item>
     
     <item>
@@ -36,57 +27,8 @@ Stay tuned!&lt;/p&gt;
       <pubDate>Mon, 09 Jan 2017 16:35:19 -0800</pubDate>
       
       <guid>https://mazarmi.github.io/publication/</guid>
-      <description>
-
-&lt;p&gt;Please refer to &lt;a href=&#34;https://scholar.google.com/citations?user=ZttbnG8AAAAJ&#34;&gt;Google Scholar&lt;/a&gt; for the latest udpates.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;End to End Security in Service Oriented Architecture.&lt;/strong&gt;
-M. Azarmi, P. Angin, B. Bhargava, N. Ahmed , A. Sinclair, et al.
-&lt;em&gt;31st International Symposium on Reliable Distributed Systems (IEEE SRDS 2012), 2012, Under Submission.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Novel Secure and Dynamic Clustering Protocols in Wireless Sensor Networks.&lt;/strong&gt;
-R. Jiang, M. Azarmi, T. Gong, B. Bhargava.
-&lt;em&gt;Elsevier Computers &amp;amp; Security, 2011, Under Review.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Minimizing Collaborative Attacks in a Real Heterogeneous Mobile Ad Hoc Network Using Cooperative Immunization Model.&lt;/strong&gt;
-T. Gong, B. Bhargava, Jiajia Zhou, Mehdi Azarmi, and Changxing Du.
-&lt;em&gt;Computers &amp;amp; Security, 2011, Under Review.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy-Aware Location-Aided Routing in Mobile Ad Hoc Networks.&lt;/strong&gt;
-G. Ghinita, M. Azarmi, E. Bertino.
-&lt;em&gt;11th International Conference on Mobile Data Management. (IEEE MDM 2010), 2010, 65-74.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Developing Attack Defense Ideas for Ad Hoc Wireless Networks.&lt;/strong&gt;
-R. Oliveira, B. Bhargava, M. Azarmi, E. Ferreira.
-&lt;em&gt;28th IEEE International Symposium on Reliable Distributed Systems (SRDS), Niagara Falls, New York, U.S.A., September 2009.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Collaborative Attacks in WiMAX Networks&lt;/strong&gt;
-B. Bhargava, Y. Zhang, N. Idika, L. Lilien, M. Azarmi
-&lt;em&gt;Wiley Journal on Security and Communication Networks, Volume: 2, Issue: 5, Pages: 373-391, 2009.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;An Adaptive Routing Protocols for Vehicular Ad hoc Networks.&lt;/strong&gt;
-M. Azarmi, Masoud Sabaei.
-&lt;em&gt;International Symposium on Telecommunication (IST 2008), 2008.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;A Cross Layer and Power-aware Routing Protocol for Sensor Networks.&lt;/strong&gt;
-M. Azarmi, S. Khorsandi, H. Pedram.
-&lt;em&gt;Proceedings of 15th Iranian Conference on Electrical Engineering (ICEE 2007), 2007.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CPR: A Cross Layer and power-aware routing protocol for sensor networks.&lt;/strong&gt;
-M. Azarmi, M. Sabaei.
-&lt;em&gt;Proceedings of 12th International CSI Computer Conference, 2007.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The Effect of the Mobility Models On The Mobile Ad hoc Network Routing Protocols.&lt;/strong&gt;
-M. Azarmi, M. Sabaei.
-&lt;em&gt;Proceedings of International Knowledge and Technology conference (IKT2005), Tehran, IRAN, 2005.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Improving Location-Based Routing Protocols in Mobile Ad hoc Networks.&lt;/strong&gt;
-M. Azarmi
-&lt;em&gt;M.Sc thesis, Amirkabir University of Technology (Tehran Polytechnic), 2006.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;A Performance Comparison of Multi-Hop Wireless Ad Hoc Network Routing Protocols.&lt;/strong&gt;
-M. Azarmi
-&lt;em&gt;B.Sc thesis, Amirkabir University of Technology (Tehran Polytechnic), 2005.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;posters-theses-and-technical-reports&#34;&gt;Posters, Theses and Technical Reports&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Security Auditing in Service Oriented Architecture.&lt;/strong&gt;
-M. Azarmi, P. Angin, B. Bhargava, N. Ahmed , A. Sinclair
-&lt;em&gt;CERIAS Annual Information Security Symposium, Purdue University, April 3rd - 4th 2012.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Please refer to Google Scholar for the latest udpates.
+ End to End Security in Service Oriented Architecture. M. Azarmi, P. Angin, B. Bhargava, N. Ahmed , A. Sinclair, et al. 31st International Symposium on Reliable Distributed Systems (IEEE SRDS 2012), 2012, Under Submission. Novel Secure and Dynamic Clustering Protocols in Wireless Sensor Networks. R. Jiang, M. Azarmi, T. Gong, B. Bhargava. Elsevier Computers &amp;amp; Security, 2011, Under Review. Minimizing Collaborative Attacks in a Real Heterogeneous Mobile Ad Hoc Network Using Cooperative Immunization Model.</description>
     </item>
     
     <item>
@@ -95,11 +37,8 @@ M. Azarmi, P. Angin, B. Bhargava, N. Ahmed , A. Sinclair
       <pubDate>Mon, 09 Jan 2017 06:42:21 -0700</pubDate>
       
       <guid>https://mazarmi.github.io/about/</guid>
-      <description>&lt;p&gt;I received my Ph.D. in Computer Science from Purdue University. I was affiliated with the Center for Education and Research in Information Assurance and Security (CERIAS).&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m currently interested in designing reliable and massively scalable distributed systems.
-Previously, I&amp;rsquo;ve worked on multiple areas of information security.&lt;/p&gt;
-</description>
+      <description>I received my Ph.D. in Computer Science from Purdue University. I was affiliated with the Center for Education and Research in Information Assurance and Security (CERIAS).
+I&amp;rsquo;m currently interested in designing reliable and massively scalable distributed systems. Previously, I&amp;rsquo;ve worked on multiple areas of information security.</description>
     </item>
     
     <item>
@@ -108,14 +47,7 @@ Previously, I&amp;rsquo;ve worked on multiple areas of information security.&lt;
       <pubDate>Mon, 09 Jan 2017 00:16:00 -0800</pubDate>
       
       <guid>https://mazarmi.github.io/code/</guid>
-      <description>&lt;!--[GitHub](https://github.com/mazarmi)--&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rook/rook&#34;&gt;rook&lt;/a&gt; (An Open, Cloud Native, and Universal Distributed Storage): Implemented the &lt;em&gt;etcd manager&lt;/em&gt; to elastically expand and shrink the etcd cluster based on the cluster&amp;rsquo;s status.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/quantum/discovery&#34;&gt;discovery service&lt;/a&gt;: Improved and expanded the etcd discovery service to reflect the latest cluster membership.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mazarmi/distcron&#34;&gt;distcron&lt;/a&gt;: A Distributed Cron.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>  rook (An Open, Cloud Native, and Universal Distributed Storage): Implemented the etcd manager to elastically expand and shrink the etcd cluster based on the cluster&amp;rsquo;s status. discovery service: Improved and expanded the etcd discovery service to reflect the latest cluster membership. distcron: A Distributed Cron.  </description>
     </item>
     
     <item>
@@ -124,15 +56,7 @@ Previously, I&amp;rsquo;ve worked on multiple areas of information security.&lt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mazarmi.github.io/about-this-site/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;link rel=&#34;canonical&#34; href=&#34;https://mazarmi.github.io/colophon&#34;/&gt;
-    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34;/&gt;
-    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url=/colophon&#34;/&gt;
-  &lt;/head&gt;
-&lt;/html&gt;
-</description>
+      <description>    </description>
     </item>
     
     <item>
@@ -141,15 +65,7 @@ Previously, I&amp;rsquo;ve worked on multiple areas of information security.&lt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mazarmi.github.io/posts/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;link rel=&#34;canonical&#34; href=&#34;https://mazarmi.github.io/blog&#34;/&gt;
-    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34;/&gt;
-    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url=/blog&#34;/&gt;
-  &lt;/head&gt;
-&lt;/html&gt;
-</description>
+      <description>    </description>
     </item>
     
     <item>
@@ -158,15 +74,7 @@ Previously, I&amp;rsquo;ve worked on multiple areas of information security.&lt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mazarmi.github.io/writing/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;link rel=&#34;canonical&#34; href=&#34;https://mazarmi.github.io/posts&#34;/&gt;
-    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34;/&gt;
-    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url=/posts&#34;/&gt;
-  &lt;/head&gt;
-&lt;/html&gt;
-</description>
+      <description>    </description>
     </item>
     
   </channel>
