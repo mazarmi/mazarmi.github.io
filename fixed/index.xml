@@ -18,7 +18,10 @@
       
       <guid>https://mazarmi.github.io/publication/</guid>
       <description>Please refer to Google Scholar for the latest udpates.
- End to End Security in Service Oriented Architecture. M. Azarmi, P. Angin, B. Bhargava, N. Ahmed , A. Sinclair, et al. 31st International Symposium on Reliable Distributed Systems (IEEE SRDS 2012), 2012, Under Submission. Novel Secure and Dynamic Clustering Protocols in Wireless Sensor Networks. R. Jiang, M. Azarmi, T. Gong, B. Bhargava. Elsevier Computers &amp;amp; Security, 2011, Under Review. Minimizing Collaborative Attacks in a Real Heterogeneous Mobile Ad Hoc Network Using Cooperative Immunization Model.</description>
+An End-to-End Security Policy Monitoring and Enforcement Framework for Service-Oriented Architecture. M Azarmi, B Bhargava IEEE Cloud 2017
+An End-to-End Dynamic Trust Framework for Service-Oriented Architecture. M Azarmi, B Bhargava IEEE Cloud 2017
+Mixed-Mode Malware and Its Analysis. S Aboughadareh, C Csallner, M Azarmi Proceedings of the 4th Program Protection and Reverse Engineering Workshop, 2014 (best paper award)
+End to End Security in Service Oriented Architecture.</description>
     </item>
     
     <item>
@@ -28,7 +31,8 @@
       
       <guid>https://mazarmi.github.io/about/</guid>
       <description>I received my Ph.D. in Computer Science from Purdue University. I was affiliated with the Center for Education and Research in Information Assurance and Security (CERIAS).
-I&amp;rsquo;m currently interested in designing reliable and massively scalable distributed systems. Previously, I&amp;rsquo;ve worked on multiple areas of information security.</description>
+I&amp;rsquo;m currently interested in designing reliable and massively scalable distributed systems. In my current project, I&amp;rsquo;m working on a real-time, scalable, and resilient stream processing ecosystem.
+Previously, I&amp;rsquo;ve worked on distributed software-defined storage and multiple areas of information security.</description>
     </item>
     
     <item>
