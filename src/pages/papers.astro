@@ -1,0 +1,147 @@
+---
+import Base from '../layouts/Base.astro';
+
+const papers = [
+  {
+    title: 'An End-to-End Security Policy Monitoring and Enforcement Framework for Service-Oriented Architecture.',
+    authors: 'M Azarmi, B Bhargava',
+    venue: 'IEEE Cloud 2017',
+  },
+  {
+    title: 'An End-to-End Dynamic Trust Framework for Service-Oriented Architecture.',
+    authors: 'M Azarmi, B Bhargava',
+    venue: 'IEEE Cloud 2017',
+  },
+  {
+    title: 'Mixed-Mode Malware and Its Analysis.',
+    authors: 'S Aboughadareh, C Csallner, M Azarmi',
+    venue: '4th Program Protection and Reverse Engineering Workshop, 2014 (best paper award)',
+  },
+  {
+    title: 'End to End Security in Service Oriented Architecture.',
+    authors: 'M Azarmi, P Angin, B Bhargava, N Ahmed, A Sinclair, et al.',
+    venue: '31st Intl. Symposium on Reliable Distributed Systems (IEEE SRDS 2012)',
+  },
+  {
+    title: 'Privacy-Aware Location-Aided Routing in Mobile Ad Hoc Networks.',
+    authors: 'G Ghinita, M Azarmi, E Bertino',
+    venue: '11th Intl. Conference on Mobile Data Management (IEEE MDM 2010), 65–74',
+  },
+  {
+    title: 'Developing Attack Defense Ideas for Ad Hoc Wireless Networks.',
+    authors: 'R Oliveira, B Bhargava, M Azarmi, E Ferreira',
+    venue: '28th IEEE Intl. Symposium on Reliable Distributed Systems (SRDS), 2009',
+  },
+  {
+    title: 'Collaborative Attacks in WiMAX Networks.',
+    authors: 'B Bhargava, Y Zhang, N Idika, L Lilien, M Azarmi',
+    venue: 'Wiley Journal on Security and Communication Networks, 2(5):373–391, 2009',
+  },
+  {
+    title: 'An Adaptive Routing Protocol for Vehicular Ad Hoc Networks.',
+    authors: 'M Azarmi, M Sabaei',
+    venue: 'Intl. Symposium on Telecommunication (IST 2008)',
+  },
+  {
+    title: 'A Cross Layer and Power-aware Routing Protocol for Sensor Networks.',
+    authors: 'M Azarmi, S Khorsandi, H Pedram',
+    venue: '15th Iranian Conference on Electrical Engineering (ICEE 2007)',
+  },
+  {
+    title: 'CPR: A Cross Layer and Power-aware Routing Protocol for Sensor Networks.',
+    authors: 'M Azarmi, M Sabaei',
+    venue: '12th Intl. CSI Computer Conference, 2007',
+  },
+  {
+    title: 'The Effect of the Mobility Models on the Mobile Ad Hoc Network Routing Protocols.',
+    authors: 'M Azarmi, M Sabaei',
+    venue: 'Intl. Knowledge and Technology Conference (IKT 2005), Tehran',
+  },
+  {
+    title: 'Improving Location-Based Routing Protocols in Mobile Ad Hoc Networks.',
+    authors: 'M Azarmi, et al.',
+    venue: 'See Google Scholar for details',
+  },
+];
+
+const theses = [
+  {
+    title: 'End-to-end security in service-oriented architecture.',
+    authors: 'M Azarmi',
+    venue: 'Ph.D. thesis, Purdue University, 2016 — ',
+    link: '/doc/thesis.pdf',
+    linkText: 'PDF',
+  },
+  {
+    title: 'Security Auditing in Service Oriented Architecture.',
+    authors: 'M Azarmi',
+    venue: 'M.Sc. thesis, Amirkabir University of Technology (Tehran Polytechnic), 2006',
+  },
+  {
+    title: 'A Performance Comparison of Multi-Hop Wireless Ad Hoc Network Routing Protocols.',
+    authors: 'M Azarmi',
+    venue: 'B.Sc. thesis, Amirkabir University of Technology (Tehran Polytechnic), 2005',
+  },
+  {
+    title: 'Automatic Profiling of Evasive Mixed-Mode Malware with SEMU.',
+    authors: 'S Aboughadareh, C Csallner, M Azarmi',
+    venue: '33rd IEEE Symposium on Security and Privacy (Oakland), 2012, poster',
+  },
+  {
+    title: 'Dynamic Analysis of Evasive Modular Malware.',
+    authors: 'S Aboughadareh, C Csallner, M Azarmi',
+    venue: '28th Annual Computer Security Applications Conference (ACSAC ’12), poster',
+  },
+  {
+    title: 'Security Auditing in Service Oriented Architecture.',
+    authors: 'M Azarmi, P Angin, B Bhargava, N Ahmed, A Sinclair',
+    venue: 'CERIAS Annual Information Security Symposium, Purdue, 2012',
+  },
+];
+---
+
+<Base title="Papers — Mehdi Azarmi" current="papers">
+  <main class="prose-page">
+    <p class="kicker">~/papers</p>
+    <h1 style="font-size:30px;margin:8px 0">Publications</h1>
+    <p>
+      Please refer to
+      <a href="https://scholar.google.com/citations?user=ZttbnG8AAAAJ">Google Scholar</a>
+      for the latest updates.
+    </p>
+    <ol>
+      {
+        papers.map((p) => (
+          <li>
+            <strong>{p.title}</strong>
+            <br />
+            {p.authors}
+            <br />
+            <span class="venue">{p.venue}</span>
+          </li>
+        ))
+      }
+    </ol>
+    <h2>Theses, posters, and technical reports</h2>
+    <ol>
+      {
+        theses.map((t) => (
+          <li>
+            <strong>{t.title}</strong>
+            <br />
+            {t.authors}
+            <br />
+            <span class="venue">
+              {t.venue}
+              {'link' in t && t.link ? (
+                <>
+                  {' — '}<a href={t.link}>{t.linkText}</a>
+                </>
+              ) : null}
+            </span>
+          </li>
+        ))
+      }
+    </ol>
+  </main>
+</Base>

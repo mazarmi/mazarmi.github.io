@@ -1,0 +1,54 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  current?: 'blog' | 'code' | 'papers' | 'about';
+}
+
+const {
+  title,
+  description = 'Mehdi Azarmi — distributed systems & security',
+  current,
+} = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href="/maze2.ico" />
+  </head>
+  <body>
+    <div class="wrap">
+      <nav class="nav" aria-label="primary">
+        <a href="/" style="margin-left:0">$ whoami</a>
+        <span>
+          <a href="/blog/" aria-current={current === 'blog' ? 'page' : undefined}>~/blog</a>
+          <a href="/code/" aria-current={current === 'code' ? 'page' : undefined}>~/code</a>
+          <a href="/papers/" aria-current={current === 'papers' ? 'page' : undefined}>~/papers</a>
+          <a href="/about/" aria-current={current === 'about' ? 'page' : undefined}>~/about</a>
+        </span>
+      </nav>
+
+      <slot />
+
+      <footer class="footer">
+        <span>© Mehdi Azarmi — mazarmi.org</span>
+        <span>
+          <a href="https://github.com/mazarmi">GitHub</a>
+          {' · '}
+          <a href="https://linkedin.com/in/mazarmi">LinkedIn</a>
+          {' · '}
+          <a href="https://scholar.google.com/citations?user=ZttbnG8AAAAJ">Scholar</a>
+          {' · '}
+          <a href="mailto:mazarmi@gmail.com">Email</a>
+        </span>
+      </footer>
+    </div>
+  </body>
+</html>
